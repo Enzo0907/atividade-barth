@@ -1,1 +1,56 @@
 # atividade-barth
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>atividade.01.barth</title>
+
+    <style>
+        h1{
+            color: red;
+            background-color: blue;
+        }
+
+        h2{
+            color: green;
+            background-color: yellow;
+        }
+    </style>
+
+</head>
+<body>
+
+    <h1>RECEITA DE BOLO DE CHOCOLATE</h1>
+
+    <p>Esta página apresenta uma receita de bolo de chocolate, que é um dos bolos mais populares e deliciosos.</p>
+
+    <h2>INGREDIENTES</h2>
+    <ul>
+        <li>2 xícaras de farinha de trigo</li>
+        <li>1 xícara de açúcar</li>
+        <li>1 xícara de cacau em pó</li>
+        <li>1 colher de chá de fermento em pó</li>
+        <li>1 colher de chá de bicarbonato de sódio</li>
+        <li>1/2 colher de chá de sal</li>
+        <li>2 ovos</li>
+        <li>1 xícara de leite</li>
+        <li>1/2 xícara de óleo vegetal</li>
+        <li>2 colheres de chá de essência de baunilha</li>
+    </ul>
+
+    <h2>MODO DE PREPARO</h2> 
+    <ol>
+        <li>Pré-aqueça o forno a 180°C e unte uma forma de bolo com manteiga e farinha.</li>
+        <li>Em uma tigela grande, misture a farinha, o açúcar, o cacau em pó, o fermento, o bicarbonato e o sal.</li>
+        <li>Em outra tigela, bata os ovos, o leite, o óleo e a essência de baunilha até ficar homogêneo.</li>
+        <li>Adicione os ingredientes líquidos aos ingredientes secos e misture até obter uma massa lisa.</li>
+        <li>Despeje a massa na forma preparada e leve ao forno por cerca de 30-35 minutos ou até que um palito inserido no centro do bolo saia limpo.</li>
+        <li>Deixe o bolo esfriar antes de desenformar e servir.</li>
+    </ol>
+
+    <p>Aproveite seu delicioso bolo de chocolate!</p>
+
+</body>
+</html>
